@@ -17,7 +17,7 @@ D-Link-DCS-账号密码信息泄露检测脚本
 
 ###  食用方法
 
-食用方法与之前有所改变，需要在同级目录下建立一个名为host.txt文件夹，将所需要测试的目标地址放入host.txt中即可
+食用方法与之前有所改变，需要在同级目录下建立一个名为host.txt文件，将所需要测试的目标地址放入host.txt中即可
 
 ![image](https://github.com/FeiNiao/D-Link-DCS-Account-password-information-eakage/assets/66779835/3478faed-22cb-44e9-b7fd-ff99fd51e8e2)
 
