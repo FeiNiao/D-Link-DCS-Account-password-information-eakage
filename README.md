@@ -1,5 +1,5 @@
 # D-Link-DCS-Account-password-information-eakage
-D_Link-DCS-账号密码信息泄露检测脚本
+D-Link-DCS-账号密码信息泄露检测脚本
 
 
 # 免责声明
@@ -13,7 +13,7 @@ D_Link-DCS-账号密码信息泄露检测脚本
 
 切勿用于非法用途，非法使用造成的一切后果由自己承担，与作者无关。
 
-# D_Link-DCS-视频监控账号密码信息泄露检测脚本
+# D-Link-DCS-视频监控账号密码信息泄露检测脚本
 
 ###  食用方法
 
